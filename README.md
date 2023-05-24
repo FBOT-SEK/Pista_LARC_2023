@@ -26,7 +26,7 @@ Para selecionar um robô no GearsBot, basta selecionar a opção ***Select Robot
 ![image](https://github.com/FBOT-SEK/minicurso-introdutorio/assets/86270082/539eaede-f482-4b99-932b-16ca202d26bd)<br /><br /><br />
 
 --------------------------------------------
-<br /><br /><br /><br />
+<br /><br />
 
 # Contribuidores :shipit:
 
