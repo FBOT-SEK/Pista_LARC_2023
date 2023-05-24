@@ -7,7 +7,10 @@ Criamos a pista de 2023 da categoria SEK na LARC no web simulador [GearsBot](htt
 
 --------------------------------------------
 ## Simulador
-Na aba ***<ins>Python</ins>*** você pode inserir o seu código no simulador. Ele já vem com a biblioteca ev3dev2 e suas importações prontas, é só começar o seu código. <br />
+
+ * ***<ins>Videoaula do simulador</ins>: https://www.youtube.com/watch?v=eYwjr4hwVBM***<br /><br />
+ 
+ Na aba ***<ins>Python</ins>*** você pode inserir o seu código no simulador. Ele já vem com a biblioteca ev3dev2 e suas importações prontas, é só começar o seu código. <br />
 <img src="https://github.com/FBOT-SEK/Pista_LARC_2023/assets/86270082/6fae852e-ea4e-484f-ada1-61c453471c46" width="400">
 <br /><br />
 
