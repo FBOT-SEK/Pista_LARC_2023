@@ -26,13 +26,13 @@ Para selecionar um robô no GearsBot, basta selecionar a opção ***Select Robot
 ![image](https://github.com/FBOT-SEK/minicurso-introdutorio/assets/86270082/539eaede-f482-4b99-932b-16ca202d26bd)<br /><br /><br />
 
 --------------------------------------------
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 # Contribuidores :shipit:
 
 | [<img src="https://avatars.githubusercontent.com/u/86270082?v=4" width=90><br><sub>Maurício Valadão</sub>](https://github.com/mvalado) |  [<img src="https://avatars.githubusercontent.com/u/61145169?v=4" width=90><br><sub>Rebekah Veiga</sub>](https://github.com/rebekahveiga) |  [<img src="https://avatars.githubusercontent.com/u/106852957?v=4" width=90><br><sub>Jordan Zitzke</sub>](https://github.com/JordanZitzke) |  [<img src="https://avatars.githubusercontent.com/u/89225783?v=4" width=90><br><sub>Marcone Marques</sub>](https://github.com/Marcone-Sudo) |  [<img src="https://user-images.githubusercontent.com/86270082/236988613-ece6c4e2-c1e3-4e07-86ef-5f4655312187.png" width=90><br><sub>João Pedro Kwecko</sub>](https://github.com/jpkwecko) |
 | :---: | :---: | :---: | :---: | :---: |
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 | [<img src="https://user-images.githubusercontent.com/86270082/236948273-0f74609a-67c8-470c-abf7-31ae90589645.png" height="110" width="110"><br><sub>Equipe FBOT</sub>](https://www.instagram.com/furgbot/) |
 | :---: |
