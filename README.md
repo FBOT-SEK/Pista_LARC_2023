@@ -2,8 +2,10 @@
 Criamos a pista de 2023 da categoria SEK na LARC no web simulador [GearsBot](https://gears.aposteriori.com.sg/). Estamos disponibilizando publicamente com a intenção de ajudar as demais equipes participantes!<br /><br /><br />
 
 ![simulador](https://github.com/FBOT-SEK/Pista_LARC_2023/assets/86270082/a4a835c3-eba7-4e72-98e7-18444c80187a)<br /><br />
+<img src = "https://github.com/FBOT-SEK/Pista_LARC_2023/assets/86270082/1fdd2a93-e1d5-4e34-b3bf-2288ff30dc7d" width = "500"> <br />
+
   * ***Download da pista: [Pista - LARC 2023.zip](https://github.com/FBOT-SEK/Pista_LARC_2023/files/11549311/Pista.-.LARC.2023.zip)***<br />
-<br /><br />
+<br />
 
 --------------------------------------------
 ## Simulador
